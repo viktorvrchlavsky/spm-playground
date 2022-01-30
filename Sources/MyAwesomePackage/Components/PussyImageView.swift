@@ -27,6 +27,6 @@ struct PussyImageView: View {
 
 struct PussyImage_Previews: PreviewProvider {
     static var previews: some View {
-        PussyImageView(imageURL: URL(string: "https://cdn2.thecatapi.com/images/XdpjlxhmW.false")!)
+        PussyImageView(imageURL: URL(string: "https://purr.objects-us-east-1.dream.io/i/Kfi6I.jpg")!)
     }
 }
