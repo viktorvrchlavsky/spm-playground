@@ -1,1 +1,3 @@
-# spm-playground
+# MyAwesomePackage
+
+A description of this package.
